@@ -1,7 +1,7 @@
 # Hi, I'm Prateek Gupta
 
 ## 💫 About Me:
-🔭 I’m currently working on AWS EC2 & S2.<br>👯 I’m looking to collaborate on an open-source project on MERN.<br>🤝 I’m looking for help with System & DB Design.<br>🌱 I’m currently learning NodeJs, MongoDB.<br>💬 Ask me about Javascript, ReactJS.<br>✍🏼  Guptaprateek10@gmail.com
+🔭 I’m currently working on AWS EC2 & S3.<br>👯 I’m looking to collaborate on an open-source project on MERN.<br>🤝 I’m looking for help with System & DB Design.<br>🌱 I’m currently learning NodeJs, MongoDB.<br>💬 Ask me about Javascript, ReactJS.<br>✍🏼  Guptaprateek10@gmail.com
 
 ## :link: Socials Links
 
